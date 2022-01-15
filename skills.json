@@ -1,21 +1,18 @@
 {
-	"skills":[
-	Testing_theory,
-	Client_server_architecture,
-	http_,
-	json_,
-	xml_,
-	postman_,
-	SQL_,
-	Python_,
-	Devtools_,
-	VPN_,
-	Scrum_,
-	ADB_,
-	Charles_,
-	Fiddler_
-	]
+        
+        "Testing_theory":"+-",
+        "Client_server_architecture":"-",
+        "HTTP":"+-",
+        "JSON":"+",
+        "XML":"+-",
+        "postman":"-",
+        "SQL":"-",
+        "Python":"+-",
+        "Devtools":"-",
+        "VPN":"+-",
+        "Scrum":"-",
+        "ADB":"-",
+        "Charles":"+-",
+        "Fiddler":"+-"
 
-
-	
-}
+ }
