@@ -1,1 +1,21 @@
 
+{
+    "Summary" : "bug_report_1",                                                           
+    "Project" : "test_project",
+    "Version" : "3.2.2",
+    "Severity" : "S1(Blocker)",
+    "Priority" : "P1(High)",
+    "Status" : "Open",
+    "Author" : "Makarov Maksim S.",
+    "Assigned To": "Makarov Maksim S.",
+    "Steps to reproduce": 
+  [
+                     1_Open file,
+                     2_edit,
+                     3_Save
+  ],
+
+    "Actual result" : "123",
+    "Expected Result" : "321",
+    "Attachment" : "-"
+}
